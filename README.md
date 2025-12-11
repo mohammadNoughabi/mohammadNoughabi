@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/MohammadNoughabi?v=4" width="150px;" alt="Mohammad Noughabi Profile Picture"/><br>
+  <img src="https://github.com/mohammadNoughabi.png" width="150px;" alt="Mohammad Noughabi Profile Picture"/><br>
   <h1>👋 Hello there! I'm Mohammad Noughabi</h1>
   <p>A passionate MERN Stack Developer specializing in building modern, scalable web applications.</p>
 </div>
@@ -44,7 +44,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNoughabi&show_icons=true&theme=buefy&hide_border=true" alt="Mohammad Noughabi GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNoughabi&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Top Languages"/>
-</div>
